@@ -1,2 +1,2 @@
 # Git-GitHub
-This is a Git and GitHub repository. It is has been including important thory points with Git commands.
+This is a Git and GitHub repository. It is having been including important theory points with Git commands.
