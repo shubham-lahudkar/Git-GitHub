@@ -1,0 +1,37 @@
+What is GitHub?
+        GitHub is a widely-used Free-to-use cloud Storage platform with version control and many other essential features that specifically helps developers to manage and deploy their projects on GitHub.
+
+Benefits of Using Git
+        History Tracking: Git allows you to track every change made in your project, including: who made the change and when it was made.
+        Collaboration: Multiple developers can be able work on the same project at the same time, and Git efficiently manages the merging of changes in code.
+        Branching and Merging: Git enables developers to create branches to work on new features or bug fixes and later merge them back into the main codebase.
+        Offline Work: Git works offline, which means you can commit changes and work on your project even without an internet connection.
+
+Why use Git?
+           Here are some of the reasons why you might want to use Git:
+
+           1.   Track changes to your code
+            2.   Collaborate on projects with others
+              3.   Maintain an organized code history
+                4.    Easily revert to previous versions when needed
+                  5.     Release your code efficiently and manage versions
+                    6.     Enhance productivity and code integrity in software development.
+
+Git is a distributed version control system (VCS) primarily used for tracking changes in source code during software development.
+          Goals: Speed, data integrity, and support for distributed, non-linear workflows.
+          Command-line tool: Developers interact with Git using commands in their terminal.
+          Local installation: Git is installed directly on your system.
+          Version control: Git manages source code history, allowing you to track changes over time.
+
+GitHub is a web-based Git repository hosting service that builds upon Git’s functionality. Here’s what you need to know:
+               Graphical user interface (GUI): GitHub provides an intuitive web interface for managing repositories.
+               Web-based hosting: Your Git repositories are hosted on GitHub’s servers.
+              Maintenance: GitHub is maintained by Microsoft.
+              Focus: Centralized source code hosting and collaboration.
+              User management: GitHub includes built-in user management features.
+               Licensing: GitHub offers both a free-tier and pay-for-use options.
+               Tool integration: GitHub has an active marketplace for integrating external tools.
+                Desktop interfaces: GitHub provides a desktop interface called GitHub Desktop.
+
+In summary, Git is the underlying version control system, while GitHub is the platform that hosts Git repositories, 
+      facilitates collaboration, and provides additional features for developers and teams. 
